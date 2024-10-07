@@ -1,1 +1,2 @@
-print("I eat 🍌")
+print("I eat 🍌 and another 🍌")
+
